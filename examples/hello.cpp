@@ -7,6 +7,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello Universe!";
+    cout << "Hello World!";
     return 0;
 }
